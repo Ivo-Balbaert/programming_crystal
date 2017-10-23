@@ -1,0 +1,7 @@
+/doc/
+/lib/
+/bin/
+/.shards/
+/dev/
+sentry
+appviews

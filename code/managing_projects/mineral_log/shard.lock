@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  katip:
+    github: guvencenanguvenal/katip
+    commit: 3964d4f7a276cda11e12ae23d04e213fb3c45b62
+

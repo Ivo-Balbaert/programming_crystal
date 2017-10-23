@@ -1,0 +1,18 @@
+name: simple_kemal_app
+version: 0.1.0
+
+authors:
+  - Ivo-Balbaert <ivo.balbaert@telenet.be>
+
+targets:
+  simple_kemal_app:
+    main: src/simple_kemal_app.cr
+
+crystal: 0.23.3
+
+license: MIT
+
+dependencies: 
+  kemal:
+    github: sdogruyol/kemal
+    branch: master

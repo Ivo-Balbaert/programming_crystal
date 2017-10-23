@@ -1,0 +1,11 @@
+<header>
+  <h1>All tables</h1>
+</header>
+
+<body>
+    <% if tables %>
+        <% tables.each do |table| %>
+            <p><%= table %></p>
+        <% end %>
+    <% end %>
+</body>

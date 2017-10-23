@@ -1,0 +1,18 @@
+name: mineral_log
+version: 0.1.0
+
+authors:
+  - Ivo-Balbaert <ivo.balbaert@telenet.be>
+
+targets:
+  mineral_log:
+    main: src/mineral_log.cr
+
+crystal: 0.22.0
+
+license: MIT
+
+dependencies:
+  katip:
+    github: guvencenanguvenal/katip
+    branch: master

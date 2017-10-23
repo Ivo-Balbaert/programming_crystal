@@ -1,0 +1,18 @@
+name: appviews
+version: 0.1.0
+
+authors:
+  - Ivo-Balbaert <ivo.balbaert@telenet.be>
+
+targets:
+  appviews:
+    main: src/appviews.cr
+
+crystal: 0.23.1
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master

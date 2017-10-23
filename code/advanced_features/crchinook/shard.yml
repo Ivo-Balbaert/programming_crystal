@@ -1,0 +1,17 @@
+name: crchinook
+version: 0.1.0
+
+authors:
+  - Ivo-Balbaert <ivo.balbaert@telenet.be>
+
+targets:
+  crchinook:
+    main: src/crchinook.cr
+
+crystal: 0.23.1
+
+license: MIT
+
+dependencies:
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
